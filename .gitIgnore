@@ -1,0 +1,56 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Jupyter runtime and temp files
+*.log
+*.pid
+*.swp
+*.bak
+*.tmp
+
+# macOS/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Pip dependency files
+pip-log.txt
+
+# pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# pyenv
+.python-version
+
+# Pycharm project files
+.idea/
